@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1392467288 source:c:\users\211360\documents\opengl\airplane-master\airplane_final\main.cpp
+	<iostream>
+	<GL/glut.h>
+	"src/SOIL.h"
+	<string.h>
+	<stdio.h>
+
+1392467288 c:\users\211360\documents\opengl\airplane-master\airplane_final\src\soil.h
+
